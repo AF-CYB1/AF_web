@@ -56,6 +56,6 @@
         <a href="index_.html">индекс</a>
         <h1>Ваши вычисления</h1>
         <div id = "display"></div>
-        <h2 id="ammount"></h2>
+        <h2 id="amount"></h2>
     </body>
 </html>
